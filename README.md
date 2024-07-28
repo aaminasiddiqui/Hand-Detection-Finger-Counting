@@ -16,6 +16,7 @@ This project involves using OpenCV to detect and count the number of fingers sho
 
 6. **Displaying Results**: Overlaying the counted fingers on the video feed and displaying the count on the screen in real-time.
 
+
 **DEMO-**
 
 <img width="1274" alt="Screenshot 2024-07-28 at 18 29 46" src="https://github.com/user-attachments/assets/cd039994-7ae6-43cf-8b3c-2f26099dab81">
