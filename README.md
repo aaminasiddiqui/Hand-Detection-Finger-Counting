@@ -18,8 +18,10 @@ This project involves using OpenCV to detect and count the number of fingers sho
 
 **DEMO-**
 
-<img width="1274" alt="Screenshot 2024-07-28 at 18 29 55" src="https://github.com/user-attachments/assets/25f46f6c-a661-4cf0-9867-1ada7cdbd3e3">
-
 <img width="1274" alt="Screenshot 2024-07-28 at 18 29 46" src="https://github.com/user-attachments/assets/cd039994-7ae6-43cf-8b3c-2f26099dab81">
 
 <img width="1277" alt="Screenshot 2024-07-28 at 18 29 48" src="https://github.com/user-attachments/assets/544bdd7f-2a1f-468e-80d9-17de8d0e9cb1">
+
+<img width="1274" alt="Screenshot 2024-07-28 at 18 29 55" src="https://github.com/user-attachments/assets/25f46f6c-a661-4cf0-9867-1ada7cdbd3e3">
+
+<img width="1277" alt="Screenshot 2024-07-28 at 18 38 47" src="https://github.com/user-attachments/assets/630d4979-0aac-44b7-bbce-a0d8acb1221c">
